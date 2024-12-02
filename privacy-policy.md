@@ -1,6 +1,6 @@
 # Privacy Policy
 
-## Effective Date: [Insert Date]
+## Effective Date: December 2, 2024
 
 Your privacy is important to us. This document outlines how we collect, use, and protect your information when you use our Discord bot, **CodeFormatter Bot**.
 
@@ -44,4 +44,4 @@ We may update this privacy policy from time to time. Updates will be posted in t
 ---
 
 ### Contact Us
-If you have any questions about this privacy policy, please contact us via the bot's support server or email at [Insert Contact Email].
+If you have any questions about this privacy policy, please contact us via email at [ncj@ncj.sh](mailto:ncj@ncj.sh).

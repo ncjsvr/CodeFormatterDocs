@@ -1,6 +1,6 @@
 # Terms of Service
 
-## Effective Date: [Insert Date]
+## Effective Date: December 2, 2024
 
 Welcome to **CodeFormatter Bot**! By using this bot, you agree to the following terms of service.
 
@@ -41,4 +41,4 @@ We may update these terms from time to time. Updates will be posted in the bot's
 ---
 
 ### Contact Us
-For questions or concerns about these terms, please reach out via the bot's support server or email at [Insert Contact Email].
+For questions or concerns about these terms, please reach out via email at [ncj@ncj.sh](mailto:ncj@ncj.sh).
